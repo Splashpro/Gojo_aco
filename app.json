@@ -1,5 +1,5 @@
 {
-    "name": "Gojo_Satarou",
+    "name": "Gojo_aco",
     "description": "Gojo is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
     "logo" : "https://te.legra.ph/file/633bd27c1607fe98920b6.jpg" ,
     "keywords": [
@@ -10,7 +10,7 @@
       "Gojo",
       "Anime"
     ],
-    "repository": "https://github.com/Gojo-Bots/Gojo_Satarou",
+    "repository": "https://github.com/Splashpro/Gojo_aco",
     "success_url": "https://t.me/iamgojoof6eyes_bot",
     "env": {
       "BOT_TOKEN": {
@@ -70,17 +70,17 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Channel where bot uodates will be posted!",
-        "value": "gojo_updates"
+        "value": "ACOBotsUpdates"
       },
       "SUDO_USERS": {
         "description": "A space separated list of user IDs who you want to assign as sudo users.",
         "required": false,
-        "value": "1432756163 1344569458 1355478165 1789859817 1777340882"
+        "value": "5514111111"
       },
       "WHITELIST_USERS": {
         "description": "A space separated list of user IDs whitelisted, cannot be restricted.",
         "required": false,
-        "value": "1432756163 1344569458 1355478165 1789859817 1777340882"
+        "value": "5514111111"
       },
       "WORKERS": {
         "description": "Number of workers to run the bot.",
